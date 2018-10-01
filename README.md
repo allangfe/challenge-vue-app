@@ -1,6 +1,6 @@
 # challenge-client-app
 
-Projeto com a finalidade de estudos do framework Vue.js
+Projeto desafio teste crud básico com framework Vue.js
 
 ## Project setup
 ```
